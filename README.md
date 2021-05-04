@@ -14,7 +14,9 @@ The website is built and developed using CSS, HTML, Bootstrap and jQuery due to 
 
 ## Website content
 
-The text is dummy data. The content for the the website is in .html files.
+The text is dummy data. 
+
+The content for the the website is in .html files.
 
 All CSS files can be found in css folder.
 
