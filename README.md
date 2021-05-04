@@ -15,6 +15,12 @@ All CSS files can be found in css folder.
 There are two games made in JS that can be played by clicking on the buttons from the home page.
 
 ## Setup
+
 Clone this repo to your desktop and open index.html in your browser.
 
+## Features
+
+1. static website
+2. responsivness thanks to Bootstrap 12 grid system
+3. Two JavaScipt made games 
 
