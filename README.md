@@ -27,7 +27,7 @@ There are two games made in JavaScript that can be played by clicking on the but
 Clone this repo to your desktop and open index.html in your browser.
 
 ```
-git clone davele-itsme/Company-website
+git clone https://github.com/davele-itsme/Company-website.git
 ```
 
 ## Features
