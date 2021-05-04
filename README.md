@@ -22,6 +22,8 @@ There are two games made in JavaScript that can be played by clicking on the but
 
 Clone this repo to your desktop and open index.html in your browser.
 
+gh repo clone davele-itsme/Company-website
+
 ## Features
 
 1. Static website
