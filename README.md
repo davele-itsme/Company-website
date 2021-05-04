@@ -1,7 +1,8 @@
 # The Company website
 
 This repo houses the files used to build the static Company website, available at https://davele-itsme.github.io/Company-website/.
-It was built for Responsive Web Design course as assignment.
+
+The project was built for Responsive Web Design course as assignment.
 
 ![image](https://user-images.githubusercontent.com/42817904/116983945-fba1fa80-acca-11eb-9367-b227f0fec687.png)
 
@@ -11,8 +12,10 @@ The website is built and developed using CSS, HTML, Bootstrap and jQuery due to 
 
 ## Website content
 
-The text is dummy data. The content for the [Company website] is in .html files.
+The text is dummy data. The content for the the website is in .html files.
+
 All CSS files can be found in css folder.
+
 There are two games made in JavaScript that can be played by clicking on the buttons from the home page.
 
 ## Setup
