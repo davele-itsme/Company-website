@@ -1,6 +1,7 @@
 # The Company website
 
-This repo houses the files used to build the static Company website, available at https://davele-itsme.github.io/Company-website/.
+This repo houses the files used to build the static Company website, available at 
+https://davele-itsme.github.io/Company-website/.
 
 The project was built for Responsive Web Design course as assignment.
 
