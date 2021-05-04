@@ -6,7 +6,7 @@
   <p align="center">
     Unity game built for Game Development project assignment 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://davele-itsme.github.io/Company-website/"><strong>Explore the web»</strong></a>
     <br />
   </p>
 </p>
