@@ -1,7 +1,9 @@
 <!-- INTRODUCTION -->
 <br />
 <p align="center">
+     <a href="https://davele-itsme.github.io/Company-website/">
     <img src="https://user-images.githubusercontent.com/42817904/116983945-fba1fa80-acca-11eb-9367-b227f0fec687.png"/>
+    </a>
   <h2 align="center">COMPANY WEBSITE</h2>
   <p align="center">
     Unity game built for Game Development project assignment 
