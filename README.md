@@ -42,7 +42,7 @@ The project was built for Responsive Web Design course as assignment.
 
 <strong>Features:</strong>
 * Static website
-* Sesponsivness thanks to Bootstrap 12 grid system
+* Responsivness thanks to Bootstrap 12 grid system
 * Two JavaScipt made games 
 
 ### Built With
