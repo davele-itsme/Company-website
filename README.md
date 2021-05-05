@@ -6,7 +6,6 @@
     </a>
   <h2 align="center">COMPANY WEBSITE</h2>
   <p align="center">
-    Unity game built for Game Development project assignment 
     <br />
     <a href="https://davele-itsme.github.io/Company-website/"><strong>Explore the web»</strong></a>
     <br />
