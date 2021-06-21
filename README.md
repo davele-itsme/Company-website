@@ -72,32 +72,3 @@ There are two games made in JavaScript that can be played by clicking on the but
 git clone https://github.com/davele-itsme/Company-website.git
 ```
 2. Use your favourite IDE
-
-
-
-#### Release note
-
-https://mews.myjetbrains.com/youtrack/issue/RND-34974 Weird reason for failed payment message for failed APM.
-
-#### Summary
-
-Display more concrete error message for failed APM in the Commander. Instead of
->  "Charge failed with 'Payment failed' error"
-
-Should now display the localized error message: 
-
-> "Authentication was not successful. Please try again."
- 
-#### Testing steps
-
-*Info about test cases. If you think the issue is not testable, describe why.*
-
-#### Follow-up issues
-
-*Is there some action/cleanup needed after this PR is merged or deployed (e.g. remove temporary job, consolidate some part outside the scope of this PR, etc)? Create issues for it with deadline and note them here and in the PR comments.*
-
-#### Performance
-
-*Was anything changed regarding adding, loading or getting entities from DB? Is it performing well? Was index added for it?*
-
-
