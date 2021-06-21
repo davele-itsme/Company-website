@@ -83,7 +83,9 @@ https://mews.myjetbrains.com/youtrack/issue/RND-34974 Weird reason for failed pa
 
 Display more concrete error message for failed APM in the Commander. Instead of
 >  "Charge failed with 'Payment failed' error"
+
 Should now display the localized error message: 
+
 > "Authentication was not successful. Please try again."
  
 #### Testing steps
